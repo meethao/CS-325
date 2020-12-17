@@ -1,32 +1,22 @@
-# CS-162-C++
-Course title: Introduction to Computer Science II
+# CS-325
+Course title: Analysis of Algorithms
 
-Lecturer: Justin Goins
 
-Name: Hao Jia
-
-ONID: 933636448
-
-Section: CS_162_C001_S2019
 
 # Description:
 
-Basic data structures. Computer programming techniques and application of software engineering principles. Introduction to analysis of programs.
-Repository for all course related modules of CS162 at Oregon State University for the Spring 2019 term.
+Recurrence relations, combinatorics, recursive algorithms, proofs of correctness.
+
 
 # Assignments:
 
-1) The Wizard Spellbook Catalog
-A file I/O intensive program which utilized different accounts for different "scopes", with the implementation of sorting algorithms, file I/Os, Logins.
+1) Merge Sort vs Insertion Sort Running time analysis
 
-2) The Pizza Portal
-OOP "Has-a" relationship practice as well as file I/O
 
-3) Zoo Tycoon
-OOP "Is-a" relationshop with inheritance practice as well as file I/O and metamorphism of different "animals" to be an animal
+2) Implement the Mergesort3 algorithm to sort an array/vector of integers.
 
-4) Hunt the Wumpus
-A clone of a popular game known as Hunt the Wumpus (OOP, "Is-a", STL templates)
 
-5) Linked List Implementation
-A simple implementation of Linked List from scratch as well as some common methods.
+3) 0-1 Knapsack: Recursive vs DP
+
+
+4) Euclidean MST Implementation
